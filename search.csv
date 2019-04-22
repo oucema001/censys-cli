@@ -1,0 +1,101 @@
+IP,Protocols,Country,RegisteredCountry,Longitude,Latitude,City,RegisteredCountyCode,CountryCode,Province,PostalCode,TimeZone,Continent,FingerprintSha256,SubjectDn,IssuerDn,Domain,AlexaRank
+,,,,0E+00,0E+00,,,,,,,,0971fbc4e66560ed46cb58b21f036511625626d8b011efb0bde92bbf5d5de7d2,CN=it-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,26b9be54f91c21a69c1dcf9171e89df9fd1d8f6951b80914cc78448a24ff0328,CN=twitter.xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,80344c69702022e86d9869b47a397b04de23eb7916afae382f3b12e8604ed480,CN=publicidad-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,1043807476cc6f64dde4df8a2016dbb5cd1134872f68ee44e0c7ffff08af0f59,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,39631d711a3d51b1c5cb69a23e03210f1f03cdb79884ca9d4da6cd04b15317ce,CN=outlook.mail2-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,5e930792f11c76b1de7894fd00124bf260bded92fb2441a66bd1cc5552c524ad,CN=domain-checker-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,b09617729f602ddd51fafefa6574571082f996c8b54b7a034c6432d926687c0a,CN=experto-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,e173c47139dbd46cc64c40bcc6ef4dddcb6ccbee05437d27fc39c2d4312ffe53,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,721f3b12421c9c8ffb1a10c8b47a2b453abf3b774471f88c4be25f52d070747b,CN=publicidad-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,950267531e8f1e6d30abe6a26beba55a838f08f2b8d5d5cd3bc28d23517bedd0,CN=www.xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,fe74dcb60eecb6587f2423149f7c93a1fa9ee0254b7e9580ce1dd65d457eade7,CN=outlook.mail2-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,feab3af92b91224f3579cc043eb698b54e7e7da16cad25b6f96d68a25190b138,CN=domain-checker-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,18b387ae72222152c0d24c61729823466e2319f37d0f1d22e42068ea6804b2b1,CN=annuaire-referencement-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,303734182c2a733359d470c403645a020a3f142c4cdb7743717fb26c6cf40a20,CN=apparaitre.en.premiere.position.sur-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,55f1ca7a58f82db9f39e8dc29c5f1ae05f497531cd26ef392a032a3318727b38,CN=it-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,6a69a32865bfbba18280c8cae3ac178494aa98d9977902bbbb74bc5406d28d1f,CN=www.xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,c0be2f72985cfef71116ae4ca2c393aeab71a3a30bdb19c5dc6c88eaed7a8611,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,27d693cdcfe722f415b7f63252efd5bdfa48d19b84db2b8ebd7dc44f0ec3cc4b,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,938d0a09ba38ef917842093c7c8645b98e6b131a244782befbc460080e9fdbb6,CN=www.xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,bee2d3aec7de5a06c2c9573393e8494f6f5c94d6aa2ba2c71e9d09072c4e5fa3,CN=domain-checker-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,06612fb5301e4f5a1540874eefd33d607556dd349c804bf892a818708115f650,CN=it-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,529fa28b4f56cd2d3f1a1b78e802a2c8e873c8eabae8f2a39e38c6abb5b34e7b,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,b37042c6fa5ee5c00a1671e01778c9fd9ef22d27c699051b5811ec3a99be9754,CN=myaccounte-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,38172f57d86b053c42ec295cb8f761d293f721a8e8d19eefb95cc2c91dbd530c,CN=myaccounte-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,75de6e3442d19765936d8b2d83e886a5f014bd90da3072851daa8237069d2e2b,CN=comment.etre.premier.sur-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,f148e2f8e4680f55f43028a2add09ad63e0592c0ad48e719dabd757575c6bef8,CN=accountss-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,ab6cee2030c4a6b7440d3aba265359cab4b054d16439bef112dac4a0b2668134,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,1100a6cd3fd28c84463cf7215bbda5ce17bed7cd3bbb3d76e8052eb1fa3b2f5f,CN=domain-checker-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,d4175cb7dfa0c3ecdd4e1fa74e586ef808c27097be52e7d77141c59695e1d7fb,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,69966214ae2fba20cba31ba9723d63c377ea57e749834c65faa65bb28384975f,CN=accountss-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,cfda92f896f4efa6b69548a81b16e51efaf4486f8bca11e66d0d339e69899b8b,CN=you.must.be-on-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,b1ecc6588975ced9508ddc5b881e0b632d58e56dd52f17d7efb126c2a4ea42cf,CN=how.to.be-on-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,2092e993001ae6255d745ce7ea673adab860f3e6b751fc990021fb1c0c092c5c,CN=experto-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,fc3be1a0cdebb77ae6ca40c94519176ef81c8f5ac5f0e2613758ebcfdfe95bc1,CN=twitter.xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,a029e536d60b8f6ae2adf7945d56357e935dcd421943ba0863ffe5f8fcf7ad27,CN=publicidad-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,04e010acf8f8288b29b1fc5c671987f8a7c933c0baba001fa868512be167de5a,CN=publicidad-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,ff8356986c43f0ea48c4b1820c7941a42692b13509fc4f4b978d67c369e432c4,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,1a54f3654d5e178b55ef07c5b9a263e4f729f7f38aa3b8c06df7c6321082aab8,"OU=Domain Control Validated, OU=PositiveSSL, CN=reg.hey-google.com","C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",,0
+,,,,0E+00,0E+00,,,,,,,,4f697179f0023e3d83ffb371dad8355002b546c943c6ec33fb26f9cfef4c6507,CN=you.must.be-on-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,4f07433c7689b1a6df1ef62bb24a31a98712397755ce6b4ba5d2596a7b77a607,CN=m-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,cb44c9662efa5e2bbcb33a4ab911645d748f55ec5776ea33d89c539aa16a6322,CN=myaccounte-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,b11b5e6a60c5563082850a53356e008b206c2032687e142d38cff831d9384d0a,CN=it-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,3ee74f07a77abe39a8c1d5a873cb65f03a3ffc8b2966568ae501027c61fe50b3,CN=www.mail2-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,18ae61ad44ffe3f849a1d9ff27e641ab4e2a828987c9920e09264a3965a15cae,CN=spinnaker.emerging-leaders-ac-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,82241fce0a40066c76d831227a8710ce76e92ec9cbc2f4406610f0f28883b377,CN=referencement.sur-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,fbdece6e987f9a5af59f4d37cdd07b1fec646ff20b36c4cc840782ee6be0f453,CN=how.to.be-on-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,e9fdf55882eab67ae06b5e64247af283de45fe9eb2407a7bffb8876f9f5632d2,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,c21729f3b2ab5a71b334118d7c62b4a23359c47c1cf8f13875df9c91a16986bc,CN=accounts.xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,3eec3c6b6f58e7bd9ea6c308300299cceb4e65dce72077cded5a825995ede63d,CN=ok.pozycjonowanie-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,ff26533ddf42ede29a01b587fae1d94fd391fc4509f47e9153165237ade371de,CN=how.to.be-on-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,f1aaf9f2a296026adf5043f7d61c3f7d4042394efe36be7eadb6b7bd1183549a,CN=www.mail2-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,c13f3cb5f6d6484961ef4f4038f9908678ccaef2bf47ad517ce2b7e110241dcd,CN=dl-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,8ffbb2a7285eb41f001777738ed2af07ec66938ad24bbd6a35f66db84ca73cc6,CN=ok.pozycjonowanie-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,24045d3fe65b87880bcfa419c0c0e04161f2c18741d636d6bbfdcd0aa1fc654f,CN=referencement.sur-google.com,"C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority",,0
+,,,,0E+00,0E+00,,,,,,,,e2bd11cb6579d00c05e556c39197396feaf1c41b75541f9bbd4fe3e478de89aa,CN=www.mail2-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,9959a75277959c7d78225a2156e843c5812db70ea4c358beaefc0d582ab9078e,CN=spinnaker.emerging-leaders-ac-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,927fb9b3790afdf1984a9f9f268cdedeb25308258a89849f79daf1093f645474,CN=myaccounte-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,2f68d2999960b08b3209844d8db042bb052aa0152392b271e79f7a886c22b86c,CN=social-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,5643ba6d9b077f030b97dfcbcf04932cf398680a75c95d2722e0c2ecd70c5ba2,CN=www.doodle-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,27f6810fd47d722cf126829771993bff5e1c3d581bce53e6045c62bbc4817926,CN=www.notifications-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,d987154916ab4ccb717e0c8c019006452725942c8ceffdc26c9df3bcb8faa543,CN=engine-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,438ef381cd049d62f2a4540117ea6e8b15153a37ff664796188797a1d633bc0a,CN=*.hr-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,4d175f0fb4aeea755b12d832ef875caab927fdacfdb8c75fe1197c7d8f0da866,"OU=Domain Control Validated, OU=COMSSL Wildcard SSL, CN=*.androld-google.com","C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",,0
+,,,,0E+00,0E+00,,,,,,,,45e7970c23b589e67e7253d1cc172edddc9ef9a4063c3f48c25d5d25a405dbb6,CN=*.hr-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,63f78e8d4322cc34e631e3d38a776cd872950d4d25bb889aa3729c92cc73bd7f,CN=www.naoto-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,ef6b892b472adac3405bc8618f147f463163087aaeed14ebec9d920ee2f830d3,CN=agence-referencement-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,c74d92534d3961222c32d6d428c191197676100e1f0ac1965cb98c6681b55992,CN=myaccounte-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,61ad3918dbb56356cc5c00f9bc9ca3d1bb57d9d78350a653468fc49fd289ca5d,CN=myaccounte-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,bc8420fc3699c276d9b95beb8e03f345e8c256f8ffe34779cf41860bff489f29,CN=top10-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,5d81492172fa289c359c5d0f0fb22539d5a59da3808714b21b126c72239b9eac,CN=pub-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,1885d8302ccfb368c5a2346d471545397c4edacbec9ebeed2e2bb73b59a34e58,CN=accounts.xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,2fcde0914b19089ecec7e7cffe9ebcf0774b0f55e7dd0a3f15b64ca1b732eb64,CN=ms-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,0f5a04cf38a821cd3b9c5a2d6370fecbbddbc6412b70d121b81578e2de326f27,CN=www.bt-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,f144c30350d8ecef04b2c55d70b619922acebc45b755a81c8c6c038a3b4a962a,CN=www.bt-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,fd17ebb46cd4094a36dc019f336828a7c60cabbbfbcd15d1388c26edd29dd437,CN=xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,5afcd781cd7376e35b992ec878db7ab0045720b38a1eeb91bcc709b0facf78d8,CN=www.mm-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,426a5ad3ebb9039b902f96721e33d3e70f1ab4809572d23b03fd891420d53a8c,CN=myaccounte-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,b0a312ceaf154ad0173ba54d3a30b6bbfbce9328f17f3aa8ea682a949cf0e08d,CN=www.taxi-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,aa66b9a4cab7bfad0f2d12d12844f2d399efc6ce133d284b1c3e904c4acaf27f,CN=*.hr-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,b27eb476b67f104d7bd769db59c8585d9c6ac14737d4e3555426fbfbc00a7d6e,CN=www.doodle-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,6cc29eafdbccc8a79f5eb3511d3c8f320c0ef456ada2b60d89ff9639ad12a2e2,CN=flights-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,d52f237b55fea1cce10eb1838424a1c4e8aa4b6e9cd7084dd5b161fe1500638f,CN=engine-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,64faec9654873292eefa44faea38d3b0ed2c07bf73fc9049b52162a5f17856bb,CN=www.mm-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,2829d342edf4a7495feffc428015e60e83cd948de48d53e945e77c338b6afb58,CN=www.notifications-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,243f6bc46bda0b7a917a8335acf5db8e26bdfd3815f6a9b467ece92e3390cc54,CN=www.bt-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,7d66ed19ec957017c0aa9b53dd5bf733999e9b6859af8f8ea85dff0653cd2277,CN=how-to-ask-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,f8503fa5a6bcafe817c9fb47967ea4da1884f0b59161cb861cb003a1df55f36c,CN=top10-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,1f832fd2fb0965ef7797e77ffa3d0443274e8afb89e66ee4aea56079a8019ec9,CN=removals-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,3638e4d98a902d29c5e8d257a3aa09cd103aa3997c5e7810ce520d83515f7dfe,CN=mail2-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,b3ce03bf5a9d195cdca0b6644f797c4ada134539d1d6b65508d7797b5808bbea,CN=www.bt-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,c1200f7efbb2bdb8ca58c05c54926747ed1be1253cbc03f4b290ba4f2f695d05,CN=pub-google.com,"C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",,0
+,,,,0E+00,0E+00,,,,,,,,dce1c90259a8865bc4ecade0106be449f7bda25f35999a234f37774453bd3ed9,CN=www.mm-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,ed60193388bfee4fad9b878b670e25bd8667926103455fe0e943b80ab53cb858,CN=www.notifications-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,669379c56e977a4ecabbbe8411d876f13bc7e6a99e2d8412c834833681e68b0a,CN=*.sue-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,21d55e5103858c69f715e6030a09175e3838ab5704ef277a412321b32ba3e244,CN=*.xls-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,18ebe8b682bf5a43dad12fd6b62352064d9d59685fd5a1cfc07eb20affbb492a,CN=social-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,8433396e4092029e737ffb9a64b0feab3b1b9b5d94e628eb4f20e83f4fc2ebe7,CN=flights-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,2b199d256a184ad56098cb3d8be8faac5859afbc9612a35ded9a864cb9696f38,CN=how-to-ask-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,4cd1d4f987a2fdf95d0f15c4c00a9eb5141f1624b790da38a0330cdd47540dcf,CN=*.hr-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0
+,,,,0E+00,0E+00,,,,,,,,c3a55f03dde200b2611b39f2021684f5b38c1d834e1a8944882f29abac271a88,CN=www.doodle-google.com,"C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",,0

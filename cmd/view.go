@@ -44,7 +44,7 @@ var viewCmd = &cobra.Command{
 		v, err := c.GetView(context.Background(), ty, queryView)
 		util.Panic(err)
 		//fmt.Println(util.PrettyPrint(v))
-		tableprinter.Print(os.Stdout, v.Num80.HTTP.Get.Headers)
+		//tableprinter.Print(os.Stdout, v.Num80.HTTP.Get.Headers)
 		s, _ := json.MarshalIndent(v.Num443.HTTPSWww.TLS.Certificate.Parsed.Subject, "", "\t")
 		tableprinter.PrintJSON(os.Stdout, s)
 		//	tableprinter.Print(os.Stdout, v.Num443.HTTPSWww.TLS.Certificate)

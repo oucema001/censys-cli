@@ -21,7 +21,7 @@ func init() {
 	searchCmd.Flags().StringVarP(&typeSearch, "type", "t", "website", "type of search can be ipv4 certificate or website")
 	searchCmd.Flags().StringVarP(&query, "query", "q", "", "query to search for")
 	searchCmd.Flags().StringVarP(&output, "output", "o", "search.csv", "file location to output file to")
-	searchCmd.Flags().BoolVarP(&csv, "csv", "c", true, "csv")
+	searchCmd.Flags().BoolVarP(&csv, "csv", "c", false, "csv")
 	rootCmd.AddCommand(searchCmd)
 }
 
@@ -46,14 +46,14 @@ var searchCmd = &cobra.Command{
 		case "certificate":
 			ty = censys.CERTIFICATESSEARCH
 		}
-
 		if typeSearch == "" {
 			fmt.Println("You have to chose a search type")
 		}
 		search, err := c.Search(context.Background(), querySearch, ty)
 		util.Panic(err)
-		s := util.PrettyPrint(search)
-		fmt.Println(s)
+		s, _ := json.MarshalIndent(search.Results, "", "\t")
+		util.RenderSearchWebsite(search,typeSearch)
+		
 		if csv {
 			var search censys.Search
 			err := json.Unmarshal([]byte(s), &search)
